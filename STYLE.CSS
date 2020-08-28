@@ -1,0 +1,37 @@
+*{
+font-family: red_rose
+}
+#see_eat_burp_repeat {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}  
+img {
+  margin-right: 150px;
+}
+
+footer{
+	background-color: black;
+	color: #ffffff;
+	margin-top: 30px;
+	padding: 20px
+	
+
+}
+.footer-link{
+	color: #ffffff;
+}
+ .special_one{
+ 	margin-top: 180px;
+ 	border-style: outset;
+ }
+
+ .special_img{
+margin-top: 100px;
+width: 550px;
+ 
+ }
+ .special_text{
+ 	margin-top: 70px;
+ 	border-style: outset;
+ }
+ 
